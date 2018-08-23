@@ -7,7 +7,11 @@ app.use(express.json());
 
 const POKEMON_API_URL = "http://pokeapi.co/api/v2/pokemon/";
 
-let ids = new Array(99).fill().map((a, b) => (a = b + 1));
+function range(start, end) {
+  return new Array(end - start + 1).fill(undefined).map((_, i) => i + start);
+}
+
+let ids = range(100, 151);
 let obj = [];
 ids.forEach(id => {
   const option = {

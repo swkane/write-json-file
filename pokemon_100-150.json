@@ -1,0 +1,1308 @@
+[
+  {
+    "name": "voltorb",
+    "id": 100,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/13/",
+          "name": "electric"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/100.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/100.png"
+    }
+  },
+  {
+    "name": "electrode",
+    "id": 101,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/13/",
+          "name": "electric"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/101.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/101.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/101.png"
+    }
+  },
+  {
+    "name": "exeggcute",
+    "id": 102,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/14/",
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/12/",
+          "name": "grass"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/102.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/102.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/102.png"
+    }
+  },
+  {
+    "name": "exeggutor",
+    "id": 103,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/14/",
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/12/",
+          "name": "grass"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/103.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/103.png"
+    }
+  },
+  {
+    "name": "cubone",
+    "id": 104,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/5/",
+          "name": "ground"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/104.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/104.png"
+    }
+  },
+  {
+    "name": "marowak",
+    "id": 105,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/5/",
+          "name": "ground"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/105.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/105.png"
+    }
+  },
+  {
+    "name": "hitmonlee",
+    "id": 106,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/2/",
+          "name": "fighting"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/106.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/106.png"
+    }
+  },
+  {
+    "name": "hitmonchan",
+    "id": 107,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/2/",
+          "name": "fighting"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/107.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/107.png"
+    }
+  },
+  {
+    "name": "lickitung",
+    "id": 108,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/108.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/108.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/108.png"
+    }
+  },
+  {
+    "name": "koffing",
+    "id": 109,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/4/",
+          "name": "poison"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/109.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/109.png"
+    }
+  },
+  {
+    "name": "weezing",
+    "id": 110,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/4/",
+          "name": "poison"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/110.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/110.png"
+    }
+  },
+  {
+    "name": "rhyhorn",
+    "id": 111,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/6/",
+          "name": "rock"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/5/",
+          "name": "ground"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/111.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/111.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/111.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/111.png",
+      "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/111.png",
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/111.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/111.png"
+    }
+  },
+  {
+    "name": "rhydon",
+    "id": 112,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/6/",
+          "name": "rock"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/5/",
+          "name": "ground"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/112.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/112.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/112.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/112.png",
+      "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/112.png",
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/112.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/112.png"
+    }
+  },
+  {
+    "name": "chansey",
+    "id": 113,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/113.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/113.png"
+    }
+  },
+  {
+    "name": "tangela",
+    "id": 114,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/12/",
+          "name": "grass"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/114.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/114.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/114.png"
+    }
+  },
+  {
+    "name": "kangaskhan",
+    "id": 115,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/115.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/115.png"
+    }
+  },
+  {
+    "name": "horsea",
+    "id": 116,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/116.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/116.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/116.png"
+    }
+  },
+  {
+    "name": "seadra",
+    "id": 117,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/117.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/117.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/117.png"
+    }
+  },
+  {
+    "name": "goldeen",
+    "id": 118,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/118.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/118.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/118.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/118.png",
+      "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/118.png",
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/118.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/118.png"
+    }
+  },
+  {
+    "name": "seaking",
+    "id": 119,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/119.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/119.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/119.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/119.png",
+      "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/119.png",
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/119.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/119.png"
+    }
+  },
+  {
+    "name": "staryu",
+    "id": 120,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/120.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/120.png"
+    }
+  },
+  {
+    "name": "starmie",
+    "id": 121,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/14/",
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/121.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/121.png"
+    }
+  },
+  {
+    "name": "mr-mime",
+    "id": 122,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/18/",
+          "name": "fairy"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/14/",
+          "name": "psychic"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/122.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/122.png"
+    }
+  },
+  {
+    "name": "scyther",
+    "id": 123,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/3/",
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/7/",
+          "name": "bug"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/123.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/123.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/123.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/123.png",
+      "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/123.png",
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/123.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/123.png"
+    }
+  },
+  {
+    "name": "jynx",
+    "id": 124,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/14/",
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/15/",
+          "name": "ice"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/124.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/124.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/124.png"
+    }
+  },
+  {
+    "name": "electabuzz",
+    "id": 125,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/13/",
+          "name": "electric"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/125.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/125.png"
+    }
+  },
+  {
+    "name": "magmar",
+    "id": 126,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/10/",
+          "name": "fire"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/126.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/126.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/126.png"
+    }
+  },
+  {
+    "name": "pinsir",
+    "id": 127,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/7/",
+          "name": "bug"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/127.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/127.png"
+    }
+  },
+  {
+    "name": "tauros",
+    "id": 128,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/128.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/128.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/128.png"
+    }
+  },
+  {
+    "name": "magikarp",
+    "id": 129,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/129.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/129.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/129.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/129.png",
+      "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/129.png",
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/129.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/129.png"
+    }
+  },
+  {
+    "name": "gyarados",
+    "id": 130,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/3/",
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/130.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/130.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/130.png",
+      "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/130.png",
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/130.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/130.png"
+    }
+  },
+  {
+    "name": "lapras",
+    "id": 131,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/15/",
+          "name": "ice"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/131.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/131.png"
+    }
+  },
+  {
+    "name": "ditto",
+    "id": 132,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/132.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/132.png"
+    }
+  },
+  {
+    "name": "eevee",
+    "id": 133,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/133.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/133.png"
+    }
+  },
+  {
+    "name": "vaporeon",
+    "id": 134,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/134.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/134.png"
+    }
+  },
+  {
+    "name": "jolteon",
+    "id": 135,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/13/",
+          "name": "electric"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/135.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/135.png"
+    }
+  },
+  {
+    "name": "flareon",
+    "id": 136,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/10/",
+          "name": "fire"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/136.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/136.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/136.png"
+    }
+  },
+  {
+    "name": "porygon",
+    "id": 137,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/137.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/137.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/137.png"
+    }
+  },
+  {
+    "name": "omanyte",
+    "id": 138,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/6/",
+          "name": "rock"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/138.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/138.png"
+    }
+  },
+  {
+    "name": "omastar",
+    "id": 139,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/6/",
+          "name": "rock"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/139.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/139.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/139.png"
+    }
+  },
+  {
+    "name": "kabuto",
+    "id": 140,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/6/",
+          "name": "rock"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/140.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/140.png"
+    }
+  },
+  {
+    "name": "kabutops",
+    "id": 141,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/11/",
+          "name": "water"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/6/",
+          "name": "rock"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/141.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/141.png"
+    }
+  },
+  {
+    "name": "aerodactyl",
+    "id": 142,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/3/",
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/6/",
+          "name": "rock"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/142.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/142.png"
+    }
+  },
+  {
+    "name": "snorlax",
+    "id": 143,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/1/",
+          "name": "normal"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/143.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/143.png"
+    }
+  },
+  {
+    "name": "articuno",
+    "id": 144,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/3/",
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/15/",
+          "name": "ice"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/144.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/144.png"
+    }
+  },
+  {
+    "name": "zapdos",
+    "id": 145,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/3/",
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/13/",
+          "name": "electric"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/145.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/145.png"
+    }
+  },
+  {
+    "name": "moltres",
+    "id": 146,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/3/",
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/10/",
+          "name": "fire"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/146.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/146.png"
+    }
+  },
+  {
+    "name": "dratini",
+    "id": 147,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/16/",
+          "name": "dragon"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/147.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/147.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/147.png"
+    }
+  },
+  {
+    "name": "dragonair",
+    "id": 148,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/16/",
+          "name": "dragon"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/148.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/148.png"
+    }
+  },
+  {
+    "name": "dragonite",
+    "id": 149,
+    "types": [
+      {
+        "slot": 2,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/3/",
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/16/",
+          "name": "dragon"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/149.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/149.png"
+    }
+  },
+  {
+    "name": "mewtwo",
+    "id": 150,
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "url": "https://pokeapi.co/api/v2/type/14/",
+          "name": "psychic"
+        }
+      }
+    ],
+    "sprites": {
+      "back_female": null,
+      "back_shiny_female": null,
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png",
+      "front_female": null,
+      "front_shiny_female": null,
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/150.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/150.png"
+    }
+  }
+]
